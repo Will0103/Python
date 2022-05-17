@@ -9,4 +9,3 @@ while len(A) <6 :
         A.append(a)
 A.sort()
 print(A)
-        
